@@ -2,7 +2,7 @@
 
 **Step - 1:** Create an `eslint.config.mjs` and copy the code from: 
 <br> 
-[Eslint File](https://github.com/ShafiaChy/Eslint-Config-Setup/blob/main/eslint.config.mjs)
+[Eslint File](https://github.com/mdyeasinhn/eslint-config-setup/blob/main/eslint.config.mjs)
 <br>
 
 *Delete the files `eslintrc` and `.eslintignore`*
